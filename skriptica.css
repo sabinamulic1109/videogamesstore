@@ -1,0 +1,79 @@
+body{
+    background-image: url("slike/pozadina.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    color:rgba(255, 255, 255, 0.5);
+  }
+  p,h3,h2{
+    color:rgba(255, 255, 255, 0.801);
+  }
+ .slajder1{
+     width:100%;
+     height:100%;
+     object-fit: cover;
+
+ }
+ .slajder2{
+    width:350px;
+    height:auto;
+    object-fit: cover;
+}
+.margt50{margin-top: 50px;}
+.margt100{margin-top: 100px;}
+
+.navic{
+    float:right;
+}
+.logo{
+    height:100px;
+    font-size: 60px;
+}
+.gore a{
+    font-size: 20px;
+    color: silver;
+    text-decoration:none;
+}
+.navbarLema a{
+    font-size: 20px;
+    color: silver;
+    text-decoration:none;
+    font-weight: bold;
+}
+.navbarLema a:hover{
+    font-size: 20px;
+    color: rgb(48, 69, 185);
+    text-decoration:none;
+    font-weight: bold;
+}
+div,td,th{
+    
+    color: silver;
+    text-decoration:none;
+}
+.form-group{
+    width:50%;
+}
+.shopic{
+    padding:50px;
+}
+.shopic img{
+    padding:20px;
+}
+.leteci{
+    background-color: rgba(5, 6, 43, 0.425);
+    padding: 30px;
+    border:1px solid rgba(245, 245, 245, 0.178);
+    margin-top: 100px;
+}
+.checkbtn{
+    margin-top: 20px;
+}
+.desno{
+    float:right;
+    text-decoration:none;
+    font-weight: bold;
+}
+.desno a{
+    text-decoration:none;
+}
